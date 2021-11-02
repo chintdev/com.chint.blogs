@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  
+  <subtitle>系统软件研发部</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>1985-10-26T08:15:00.000Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>chintdev</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/11/02/hello-world/"/>
+    <id>http://example.com/2021/11/02/hello-world/</id>
+    <published>2021-11-02T02:08:15.393Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>在浏览器输入 URL 到页面加载发生了什么？</title>
+    <link href="http://example.com/2021/11/01/%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%BE%93%E5%85%A5URl%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/"/>
+    <id>http://example.com/2021/11/01/%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%BE%93%E5%85%A5URl%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/</id>
+    <published>2021-11-01T08:58:00.000Z</published>
+    <updated>2021-11-01T09:59:57.638Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;code&gt;过程综述：&lt;/code&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;DNS 解析&lt;/li&gt;
+&lt;li&gt;TCP 连接&lt;/li&gt;
+&lt;li&gt;发送 HTTP 请求&lt;/li&gt;
+&lt;li&gt;服务器处理请求并返回 HTTP</summary>
+        
+      
+    
+    
+    
+    <category term="Browser" scheme="http://example.com/categories/Browser/"/>
+    
+    
+    <category term="DNS" scheme="http://example.com/tags/DNS/"/>
+    
+    <category term="HTTP" scheme="http://example.com/tags/HTTP/"/>
+    
+    <category term="TCP" scheme="http://example.com/tags/TCP/"/>
+    
+    <category term="URL" scheme="http://example.com/tags/URL/"/>
+    
+  </entry>
+  
+</feed>
