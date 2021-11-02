@@ -1,22 +1,24 @@
 ---
-title: 在浏览器输入 URL 到页面加载发生了什么？
-date: 2021-11-01 16:58:00
-author: zander
-img: 
-top: true
-hide: false
-cover: true
-coverImg: 
-password: 
-toc: false
-mathjax: false
-summary: 
-categories: Browser
-tags:
+title: 在浏览器输入 URL 到页面加载发生了什么？ # 文章标题
+date: 2021-11-01 16:58:00 # 发布时间
+author: zander # 文章作者
+img: # 文章特征图，推荐使用图床(腾讯云、七牛云、又拍云等)来做图片的路径.如: http://xxx.com/xxx.jpg
+top: true # 推荐文章（文章是否置顶）
+hide: false # 隐藏文章，如果hide值为true，则文章不会在首页显示
+cover: true # 文章是否需要加入到首页轮播封面中
+coverImg: # 文章在首页轮播封面需要显示的图片路径，如果没有，则默认使用文章的特色图片
+password:  # 文章阅读密码
+toc: false # 是否开启 TOC，可以针对某篇文章单独关闭 TOC 的功能 `暂未开放`
+mathjax: false # 是否开启数学公式支持 
+summary: # 文章摘要
+categories: Browser # 文章分类
+tags: # 文章标签
   - DNS
   - HTTP
   - TCP
   - URL
+keywords: # 文章关键字，SEO 时需要
+reprintPolicy: # 文章转载规则 `暂时不支持`
 ---
 
 `过程综述：`

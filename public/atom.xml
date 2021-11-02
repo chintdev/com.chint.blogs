@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>1985-10-26T08:15:00.000Z</updated>
+  <updated>2021-11-02T07:05:16.994Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,71 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>事件机制</title>
+    <link href="http://example.com/2021/11/02/10.29EventLoop/"/>
+    <id>http://example.com/2021/11/02/10.29EventLoop/</id>
+    <published>2021-11-02T06:37:02.000Z</published>
+    <updated>2021-11-02T07:05:16.994Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;仅代表个人理解&quot;&gt;&lt;a href=&quot;#仅代表个人理解&quot; class=&quot;headerlink&quot; title=&quot;仅代表个人理解&quot;&gt;&lt;/a&gt;仅代表个人理解&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;promise、async、setTimeout</summary>
+        
+      
+    
+    
+    
+    <category term="EventLoop" scheme="http://example.com/categories/EventLoop/"/>
+    
+    
+    <category term="promise" scheme="http://example.com/tags/promise/"/>
+    
+    <category term="async" scheme="http://example.com/tags/async/"/>
+    
+    <category term="setTimeout" scheme="http://example.com/tags/setTimeout/"/>
+    
+    <category term="synchronous" scheme="http://example.com/tags/synchronous/"/>
+    
+    <category term="asynchronous" scheme="http://example.com/tags/asynchronous/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm机制</title>
+    <link href="http://example.com/2021/11/02/npm%E6%9C%BA%E5%88%B6/"/>
+    <id>http://example.com/2021/11/02/npm%E6%9C%BA%E5%88%B6/</id>
+    <published>2021-11-02T06:37:02.000Z</published>
+    <updated>2021-11-02T07:05:22.736Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-npm-install-机制&quot;&gt;&lt;a href=&quot;#1-npm-install-机制&quot; class=&quot;headerlink&quot; title=&quot;1. npm install 机制&quot;&gt;&lt;/a&gt;1. npm install</summary>
+        
+      
+    
+    
+    
+    <category term="npm" scheme="http://example.com/categories/npm/"/>
+    
+    
+    <category term="npm" scheme="http://example.com/tags/npm/"/>
+    
+    <category term="node" scheme="http://example.com/tags/node/"/>
+    
+    <category term="dependencies" scheme="http://example.com/tags/dependencies/"/>
+    
+    <category term="script" scheme="http://example.com/tags/script/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -42,7 +107,7 @@
     <link href="http://example.com/2021/11/01/%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%BE%93%E5%85%A5URl%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/"/>
     <id>http://example.com/2021/11/01/%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E8%BE%93%E5%85%A5URl%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%8A%A0%E8%BD%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88/</id>
     <published>2021-11-01T08:58:00.000Z</published>
-    <updated>2021-11-01T09:59:57.638Z</updated>
+    <updated>2021-11-02T07:19:59.200Z</updated>
     
     
       
